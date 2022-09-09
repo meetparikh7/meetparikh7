@@ -1,7 +1,7 @@
 - 👋 Hi, meet Meet
 - 👀 I’m interested in solving problems using software technologies
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on anthing that will help me learn something new or build a solution for a problem!
+- 💞️ I’m looking to collaborate on anything that will help me learn something new or build a solution for a problem!
 - 📫 How to reach me meetparikh7@gmail.com
 
 <!---
