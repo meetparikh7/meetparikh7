@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving problems using software technologies
 - 🌱 I’m currently using C++, Rust and Python for my work and like to dive into new technologies whenever required.
 - 💞️ I’m looking to collaborate on anything that will help me learn something new or build a solution for a problem!
-- 📫 How to reach me meetparikh7@gmail.com
+- 📫 How to reach me meet.soc.7@gmail.com
 
 <!---
 meetparikh7/meetparikh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
